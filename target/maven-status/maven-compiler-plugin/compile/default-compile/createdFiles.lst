@@ -1,0 +1,4 @@
+br/tec/gtech/utilities/filter/RequestResponseLoggingFilter.class
+br/tec/gtech/utilities/filter/LogFilter.class
+br/tec/gtech/utilities/filter/LogLayout.class
+br/tec/gtech/utilities/logger/App.class
